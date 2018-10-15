@@ -1,0 +1,8 @@
+deck/VegasImplTest.class
+card/CardImplTest.class
+deck/AbstractDeckTest.class
+deck/EuchreImplTest.class
+deck/StandardImplTest.class
+hand/HandImplTest.class
+deck/PinochleImplTest.class
+game/GameImplTest.class
